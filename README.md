@@ -21,27 +21,13 @@ This repository provides a comprehensive recap of Python programming fundamental
     * Functions. 
 ---
 
-## 🐍 Python Programming
-
-
-- Reference Book: **Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming**
-- Download the book [here](https://github.com/arewadataScience/python-programming-fellowship/blob/main/Eric%20Matthes%20-%20Python%20Crash%20Course-No%20Starch%20Press%20(2023).pdf)
-
-
-
-
-| Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
-|------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
-| 1    | 15/01/2025   | [first program)](#). | [Recording](#) | [Falalu](#/) | -       |
-
-
 
 ## 🐍 Python Projects
 
 
-| Project  | Project Title                              | Description                                                                 |
-|-----------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1         |      -                            | -     |
+| Project  | Project Title                              | Description                                       |  Owner|
+|-----------|---------------------------------------------|-----------------------------------------------------------------------------|-------------|
+| 1         |      -                            | -     | - |
 
 ### Note:
 each participant is expected to create at least one project.
