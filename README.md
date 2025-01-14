@@ -7,7 +7,7 @@ This repository provides a comprehensive recap of Python programming fundamental
 
 ## 🗂 Table of Contents
 
-1. **📘 [Basic Python Concepts]
+1. **📘 [Basic Python Concepts](https://#)
     * Data types;
     * Formatted strings;
     * Getting input from the keyboard;
