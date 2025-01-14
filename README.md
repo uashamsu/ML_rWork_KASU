@@ -7,16 +7,16 @@ This repository provides a comprehensive recap of Python programming fundamental
 
 ## 🗂 Table of Contents
 
-1. **📘 [Python Fundamentals Overview]
+1. **📘 [Basic Python Concepts]
     * Data types;
     * Formatted strings;
     * Getting input from the keyboard;
   
-2. **📘 [Python Fundamentals Overview]
+2. **📘 [Programming Logic]
     * If statements;
     * Loops and iteration;
 
-3. **📘 [Python Fundamentals Overview]
+3. **📘 [Data Structures and Functions]
     * Data structures, like lists, dictionaries, and tuples; and
     * Functions. 
 ---
@@ -32,7 +32,7 @@ This repository provides a comprehensive recap of Python programming fundamental
 
 | Week | Date      | Topic                                                                                          | Session Recording              | Mentor                                         | Exercises |
 |------|-----------|------------------------------------------------------------------------------------------------|--------------------------------|-----------------------------------------------|-----------|
-| 1    | 16/11/2024   | [first program)](#). | [Recording](https://youtu.be/1_AOqZM28ww) | [Falalu](#/) | -       |
+| 1    | 15/01/2025   | [first program)](#). | [Recording](#) | [Falalu](#/) | -       |
 
 
 
